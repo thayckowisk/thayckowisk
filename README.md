@@ -1,6 +1,6 @@
 Olá! Eu sou o Thayckowisk! 👋
 
-- 💻 Estou no 2° período de Engenharia de Computação - UFG 
+- 💻 Estou no 5° semestre de Engenharia de Computação - UFG 
 - ☕ Estudando HTML, CSS e JavaScript    
 
 <div>
