@@ -1,7 +1,7 @@
 Olá! Eu sou o Thayckowisk! 👋
 
-- 💻 Estou no 5° semestre de Engenharia de Computação - UFG 
-- ☕ Estudando HTML, CSS e JavaScript    
+- 💻 Estou no 7° semestre de Engenharia de Computação - UFG 
+- ☕ Aqui eu armazeno alguns repositórios de disciplinas que estou cursando durante toda a faculdade!
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=thayckowisk&show_icons=true&hide_border=true&theme=cobalt" align="left" width="359px">
