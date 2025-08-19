@@ -5,9 +5,9 @@ I am a Computer Engineering student at the Federal University of Goiás. This pr
 </p>
 
 <div style="display: flex; align-items: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=thayckowisk&show_icons=true&hide_border=true&border_color=ffffff&theme=default&text_color=ffffff&icon_color=ffffff&bg_color=00000000" width="560px">
+  <img src="https://github-readme-stats.vercel.app/api?username=thayckowisk&show_icons=true&hide_border=true&border_color=ffffff&theme=default&text_color=ffffff&icon_color=ffffff&bg_color=00000000" width="255px">
   
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/75c33e8960f832f4a30eee3bf18360bc-1733267638/Sonny/create-chill-anime-pixel-art-sci-fi-short-scenes.gif" alt="Imagem" height="250px">
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/75c33e8960f832f4a30eee3bf18360bc-1733267638/Sonny/create-chill-anime-pixel-art-sci-fi-short-scenes.gif" alt="Imagem" height="125px">
 </div>
 
 <!-- Título -->
